@@ -1,1 +1,6 @@
 
+package
+
+func test(){
+  
+}
